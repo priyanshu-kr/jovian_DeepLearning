@@ -5,6 +5,7 @@ This repository covers the following topics:
 
 1. PyTorch Basics & Tensor Operations
 2. Linear Regression
+3. Logistic Regression
 
 Project 1 - Flowers Classification Project 
 
