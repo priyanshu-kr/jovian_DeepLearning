@@ -7,6 +7,6 @@ This repository covers the following topics:
 2. Linear Regression
 3. Logistic Regression
 
-Project 1 - Flowers Classification Project 
+Project 1 - Flowers Classification Project (Image Processing)
 
 Work under progress..
