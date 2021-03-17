@@ -6,6 +6,7 @@ This repository covers the following topics:
 1. PyTorch Basics & Tensor Operations
 2. Linear Regression
 3. Logistic Regression
+4. Training Deep Neural Networks on a GPU
 
 Project 1 - Flowers Classification Project (Image Processing)
 
