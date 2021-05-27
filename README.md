@@ -8,7 +8,8 @@ This repository covers the following topics:
 3. Logistic Regression
 4. Training Deep Neural Networks on a GPU
 5. Feedforward Neural Networks
-6. Image Classification
+6. Image Classification with Convolutional Neural Networks
+7. 
 
 Project 1 - Flowers Classification Project (Image Processing)
 
