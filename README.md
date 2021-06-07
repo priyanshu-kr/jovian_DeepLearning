@@ -9,7 +9,7 @@ This repository covers the following topics:
 4. Training Deep Neural Networks on a GPU
 5. Feedforward Neural Networks
 6. Image Classification with Convolutional Neural Networks
-7. Data Augmentation, Regularization
+7. Data Augmentation, Regularization & ResNets
 8. 
 
 Project 1 - Flowers Classification Project (Image Processing)
