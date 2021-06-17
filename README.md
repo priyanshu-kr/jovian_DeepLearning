@@ -10,7 +10,7 @@ This repository covers the following topics:
 5. Feedforward Neural Networks
 6. Image Classification with Convolutional Neural Networks
 7. Data Augmentation, Regularization & ResNets
-8. Generative Adversarial Networks and transfer learning
+8. Generative Adversarial Networks and Transfer Learning
 9. 
 
 Project 1 - Flowers Classification Project (Image Processing)
